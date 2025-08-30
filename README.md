@@ -2,7 +2,7 @@
 Hello, I'm Fahmi Dwi Santoso👏<br>🔭 Working as a Freelance Graphic Designer<br>👯 Creative Designer / Self-Taught Designer<br>🤝 Open For Commission & Collaboration<br>🌱 Sharing my creative design journey
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/fahzzzstudio) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fahmi.d.santoso/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fahzzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmi-dwi-santoso-540127321/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/FahzzzStudioo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahzzzstd04@gmail.com) 
 
 # 💻 Tech Stack:
