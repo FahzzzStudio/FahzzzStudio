@@ -1,5 +1,5 @@
 # 💫 About Me Fahmi Dwi Santoso
-Hello, I'm Fahmi Dwi Santoso👏<br>🔭 Working as a Freelance Graphic Designer<br>👯 Creative Designer / Self-Taught Designer<br>🤝 Open For Commission & Collaboration<br>🌱 Sharing my creative design journey
+Hello, I'm Fahmi Dwi Santoso👏<br>🔭 Working as a Freelance Graphic Designer<br>👯 Creative Designer / Self-Taught Designer<br>🤝 Open For Commission & Collaboration<br>🌱 Sharing my creative design journey.
 
 
 ## 🌐 Social Media:
