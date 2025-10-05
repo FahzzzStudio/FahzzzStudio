@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fahzzz/Fahzzz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/FahzzzStudio/FahzzzStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <h1 align="center" style="border:none; margin:0; color:#0ba9b4; font-weight:700; font-family:Poppins, sans-serif;">
