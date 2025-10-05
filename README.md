@@ -7,7 +7,7 @@
 <h1 align="center" style="border:none; margin:0; color:#0ba9b4; font-weight:700; font-family:Poppins, sans-serif;">
   👋 Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz) 
 </h1>
-<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=🎨+Graphic+Designer;💻+Frontend+Enthusiast;🚀+Social+Media+Designer;🤝+Open+for+Collaboration)](https://git.io/typing-svg)
 
 ### 🌟 About Me  
