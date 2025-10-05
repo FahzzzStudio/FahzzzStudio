@@ -65,42 +65,13 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio
-       &show_icons=true
-       &include_all_commits=true
-       &hide_border=false
-       &bg_color=0d1117
-       &title_color=0ba9b4
-       &text_color=c7d3d4
-       &icon_color=0ba9b4" 
-       height="160px"/>
-       
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=FahzzzStudio
-       &hide_border=false
-       &background=0d1117
-       &ring=0ba9b4
-       &fire=0ba9b4
-       &currStreakNum=c7d3d4
-       &sideNums=c7d3d4
-       &currStreakLabel=0ba9b4
-       &sideLabels=c7d3d4
-       &dates=6b8c8e" 
-       height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4&icon_color=0ba9b4" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahzzzStudio&hide_border=false&background=0d1117&ring=0ba9b4&fire=0ba9b4&currStreakNum=c7d3d4&sideNums=c7d3d4&currStreakLabel=0ba9b4&sideLabels=c7d3d4&dates=6b8c8e" height="160px"/>
 </p>
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahzzzStudio
-       &layout=compact
-       &hide_border=false
-       &bg_color=0d1117
-       &title_color=0ba9b4
-       &text_color=c7d3d4
-       &icon_color=0ba9b4" 
-       height="160px"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahzzzStudio&layout=compact&hide_border=false&bg_color=0d
+
 
 
 ---
@@ -121,5 +92,9 @@ I love transforming ideas into creative visuals and interactive experiences.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=FahzzzStudio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fahzzz/Fahzzz/output/snake.svg" alt="Snake animation" />
+</p>
 
 </div>
