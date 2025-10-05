@@ -1,3 +1,4 @@
+<div align="center" class="text-center">
 # 💫 About Me Fahmi Dwi Santoso
 Hello, I'm Fahmi Dwi Santoso👏<br>🔭 Working as a Freelance Graphic Designer<br>👯 Creative Designer / Self-Taught Designer<br>🤝 Open For Commission & Collaboration<br>🌱 Sharing my creative design journey.
 
@@ -19,3 +20,4 @@ Hello, I'm Fahmi Dwi Santoso👏<br>🔭 Working as a Freelance Graphic Designer
 [![](https://visitcount.itsvg.in/api?id=FahzzzStudio&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
