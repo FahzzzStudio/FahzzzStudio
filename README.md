@@ -4,12 +4,11 @@
   <img src="Desain tanpa judul (1).png" alt="Banner Fahzzz" width="100%" />
 </p>
 
-
-# 👋 Hi, I'm **Fahmi Dwi Santoso** (a.k.a **Fahzzz**)  
+<h1 align="center" style="border:none; margin:0; color:#0ba9b4; font-weight:700; font-family:Poppins, sans-serif;">
+  👋 Hi, I'm **Fahmi Dwi Santoso** (a.k.a **Fahzzz**) 
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=🎨+Graphic+Designer;💻+Frontend+Enthusiast;🚀+Social+Media+Designer;🤝+Open+for+Collaboration)](https://git.io/typing-svg)
-
----
 
 ### 🌟 About Me  
 Hi there! I'm **Fahmi**, a passionate **Graphic Designer** and **Social Media Specialist**, currently diving into **Frontend Development** & **AI-based Design Tools**.  
