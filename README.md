@@ -1,10 +1,18 @@
 <div align="center">
 
+<p align="center">
+  <img src="[https://your-image-link.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGuMc3aVLRTZg/profile-displaybackgroundimage-shrink_350_1400/B4DZjQl.UsGgAg-/0/1755846275422?e=1762387200&v=beta&t=DDgxvLEK4BjGJhlX-_RCAxhDhqoXqet4cLzowmhbaMA)" alt="Banner Fahzzz" width="100%" />
+</p>
+
+
 # 👋 Hi, I'm **Fahmi Dwi Santoso** (a.k.a **Fahzzz**)  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=🎨+Graphic+Designer;💻+Frontend+Enthusiast;🚀+Social+Media+Specialist;🤝+Open+for+Collaboration)](https://git.io/typing-svg)
 
 ---
+<p align="center">
+  <img src="https://your-image-link.com/animation.gif" width="300px" />
+</p>
 
 ### 🌟 About Me  
 Hi there! I'm **Fahmi**, a passionate **Graphic Designer** and **Social Media Specialist**, currently diving into **Frontend Development** & **AI-based Design Tools**.  
@@ -56,6 +64,10 @@ I love transforming ideas into creative visuals and interactive experiences.
 ---
 
 ## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahzzz&show_icons=true&theme=dark&title_color=0d8a92&text_color=ffffff&icon_color=0d8a92&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahzzzStudio&theme=tokyonight&hide_border=false" height="160px"/>
