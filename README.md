@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="[https://your-image-link.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGuMc3aVLRTZg/profile-displaybackgroundimage-shrink_350_1400/B4DZjQl.UsGgAg-/0/1755846275422?e=1762387200&v=beta&t=DDgxvLEK4BjGJhlX-_RCAxhDhqoXqet4cLzowmhbaMA)" alt="Banner Fahzzz" width="100%" />
+  <img src="Desain tanpa judul (1).png" alt="Banner Fahzzz" width="100%" />
 </p>
 
 
@@ -21,6 +21,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:fahzzzstd04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.behance.net/fahzzzstudio"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
