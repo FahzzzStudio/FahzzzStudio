@@ -10,9 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=🎨+Graphic+Designer;💻+Frontend+Enthusiast;🚀+Social+Media+Designer;🤝+Open+for+Collaboration)](https://git.io/typing-svg)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/animation.gif" width="300" alt="Animation"/>
-</p>
 
 ### 🌟 About Me  
 Hi there! I'm **Fahmi**, a passionate **Graphic Designer** and **Social Media Specialist**, currently diving into **Frontend Development** & **AI-based Design Tools**.  
