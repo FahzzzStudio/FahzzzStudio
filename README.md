@@ -4,6 +4,10 @@
   <img src="Desain tanpa judul (1).png" alt="Banner Fahzzz" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fahzzz/Fahzzz/output/snake.svg" alt="Snake animation" />
+</p>
+
 <h1 align="center" style="border:none; margin:0; color:#0ba9b4; font-weight:700; font-family:Poppins, sans-serif;">
   👋 Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz) 
 </h1>
