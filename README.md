@@ -81,7 +81,6 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahzzzStudio&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4" height="160px"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=FahzzzStudio&theme=onestar&no-bg=true&no-frame=true&title=Commits,Followers,Repositories,Stars" />
 </p>
 
 <p align="center">
@@ -96,6 +95,10 @@ I love transforming ideas into creative visuals and interactive experiences.
 🚀 Working on **Minatz Store Landing Page**  
 🌱 Learning **Full-Stack Development & Machine Learning**  
 💬 Loves sharing design knowledge and creative workflow tips  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahzzzStudio&theme=onestar&no-bg=true&no-frame=true&title=Commits,Followers,Repositories,Stars" />
+</p>
 
 ---
 
