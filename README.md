@@ -96,9 +96,9 @@ I love transforming ideas into creative visuals and interactive experiences.
 🌱 Learning **Full-Stack Development & Machine Learning**  
 💬 Loves sharing design knowledge and creative workflow tips  
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FahzzzStudio&theme=onestar&no-bg=true&no-frame=true&title=Commits,Followers,Repositories,Stars" />
-</p>
+</div>
 
 ---
 
