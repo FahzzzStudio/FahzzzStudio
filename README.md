@@ -84,7 +84,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=6366F1&point=c9d1d9&area=true" alt="FahzzzStudio Activity Graph"/>
 </p>
 
 ---
