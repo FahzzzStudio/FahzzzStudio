@@ -91,7 +91,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 ## 🏆 Achievements & Highlights
 🧠 Self-taught designer and developer since high school  
-🎨 Building strong design identity through **PRABHA** brand  
+🎨 Building strong design identity through **PRABHA** & **NOCE** brand  
 🚀 Working on **Minatz Store Landing Page**  
 🌱 Learning **Full-Stack Development & Machine Learning**  
 💬 Loves sharing design knowledge and creative workflow tips  
