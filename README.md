@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="Desain tanpa judul (1).png" alt="Banner Fahzzz" width="100%" />
+  <img src="300+ Client.png" alt="Banner Fahzzz" width="100%" />
 </p>
 
 <p align="center">
