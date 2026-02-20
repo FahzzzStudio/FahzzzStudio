@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center" style="border:none; margin:0; color:#0ba9b4; font-weight:700; font-family:Poppins, sans-serif;">
-  👋 Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz) 
+  Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz) 
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0BA9B4&center=true&vCenter=true&width=435&lines=Halo%2C+aku+Fahzzz!;Desainer+Grafis+%7C+Developer+Pemula+%7C+Content+Maker" alt="Typing SVG" />
 </p> -->
 
-### 🌟 About Me  
+### About Me  
 Hi there! I'm **Fahmi**, a passionate **Graphic Designer** and **Social Media Specialist**, currently diving into **Frontend Development** & **AI-based Design Tools**.  
 I love transforming ideas into creative visuals and interactive experiences.  
 
@@ -31,7 +31,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="mailto:fahzzzstd04@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
@@ -50,31 +50,31 @@ I love transforming ideas into creative visuals and interactive experiences.
   </a>
 </p>
 
-<h2 align="center">🧠 Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
-<h3 align="center">💻 Frontend Development</h3>
+<h3 align="center">Frontend Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark" />
 </p>
 
-<h3 align="center">⚙️ Backend & Database</h3>
+<h3 align="center">Backend & Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,python,java&theme=dark" />
 </p>
 
-<h3 align="center">🧩 AI & Data Tools</h3>
+<h3 align="center">AI & Data Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,sklearn,matplot" />
 </p>
 
-<h3 align="center">🎨 Design & Creative Suite</h3>
+<h3 align="center">Design & Creative Suite</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4&icon_color=0ba9b4" height="160px"/>
@@ -91,7 +91,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 ---
 
-## 🏆 Achievements & Highlights
+## Achievements & Highlights
 🧠 Self-taught designer and developer since high school  
 🎨 Building strong design identity through **PRABHA** & **NOCE** brand  
 🚀 Working on **Minatz Store Landing Page**  
@@ -104,7 +104,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 ---
 
-### ✨ Fun Fact
+### Fun Fact
 > I don’t just design — I *storytell visually*.  
 > My favorite combo: **Coffee ☕ + Creativity 💡 + Calm Beats 🎧**
 
@@ -113,7 +113,7 @@ I love transforming ideas into creative visuals and interactive experiences.
 [![](https://visitcount.itsvg.in/api?id=FahzzzStudio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba9b4&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba9b4&height=100&section=footer" />
 </p>
 
 </div>
