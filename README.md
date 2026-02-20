@@ -22,12 +22,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0BA9B4&center=true&vCenter=true&width=435&lines=Halo%2C+aku+Fahzzz!;Desainer+Grafis+%7C+Developer+Pemula+%7C+Content+Maker" alt="Typing SVG" />
 </p> -->
 
-### About Me  
+<h1> About me </h1>
+
 Hi there! I'm **Fahmi**, a passionate **Graphic Designer** and **Social Media Specialist**, currently diving into **Frontend Development** & **AI-based Design Tools**.  
 I love transforming ideas into creative visuals and interactive experiences.  
 
 💡 *"Design is not just what it looks like — it's how it feels."*  
 🎯 Currently exploring: `Web Design`, `UI/UX`, `Python`, and `Machine Learning`.
+
+<h1> Fun Fact </h1>
+> I don’t just design — I *storytell visually*.  
+> My favorite combo: **Coffee ☕ + Creativity 💡 + Calm Beats 🎧**
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
@@ -70,7 +75,7 @@ I love transforming ideas into creative visuals and interactive experiences.
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" />
 </p>
 
-GitHub Stats
+<h1> GitHub Stats </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4&icon_color=0ba9b4" height="160px"/>
@@ -88,10 +93,6 @@ GitHub Stats
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FahzzzStudio&theme=onestar&no-bg=true&no-frame=true&title=Commits,Followers,Repositories,Stars" />
 </div> -->
-
-### Fun Fact
-> I don’t just design — I *storytell visually*.  
-> My favorite combo: **Coffee ☕ + Creativity 💡 + Calm Beats 🎧**
 
 [![](https://visitcount.itsvg.in/api?id=FahzzzStudio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
