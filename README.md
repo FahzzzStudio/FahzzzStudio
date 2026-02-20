@@ -32,13 +32,12 @@ I love transforming ideas into creative visuals and interactive experiences.
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:fahzzzstd04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.behance.net/fahzzzstudio"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_fahzzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fahmi-dwi-santoso-540127321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.pinterest.com/FahzzzStudioo"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<p align="left">
+  <a href="mailto:fahzzzstd04@gmail.com"><img src="https://img.shields.io/badge/Email-empty?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=2b2b2b" /></a>
+  <a href="https://www.behance.net/fahzzzstudio"><img src="https://img.shields.io/badge/Behance-empty?style=for-the-badge&logo=behance&logoColor=0057ff&labelColor=2b2b2b" /></a>
+  <a href="https://www.instagram.com/_fahzzz"><img src="https://img.shields.io/badge/Instagram-empty?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=2b2b2b" /></a>
+  <a href="https://www.linkedin.com/in/fahmi-dwi-santoso-540127321/"><img src="https://img.shields.io/badge/LinkedIn-empty?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=2b2b2b" /></a>
+  <a href="https://www.pinterest.com/FahzzzStudioo"><img src="https://img.shields.io/badge/Pinterest-empty?style=for-the-badge&logo=pinterest&logoColor=BD081C&labelColor=2b2b2b" /></a>
 </p>
 
 ---
@@ -46,29 +45,24 @@ I love transforming ideas into creative visuals and interactive experiences.
 ## 🧠 Tech Stack & Tools
 
 ### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+</p>
 
 ### ⚙️ Backend & Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,python,java" />
+</p>
 
 ### 🧩 AI & Data Tools
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
+</p>
 
 ### 🎨 Design & Creative Suite
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/after%20effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender" />
+</p>
 
 ---
 
