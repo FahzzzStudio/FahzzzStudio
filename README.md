@@ -70,7 +70,7 @@ I love transforming ideas into creative visuals and interactive experiences.
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" />
 </p>
 
-## GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4&icon_color=0ba9b4" height="160px"/>
