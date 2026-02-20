@@ -31,37 +31,60 @@ I love transforming ideas into creative visuals and interactive experiences.
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="mailto:fahzzzstd04@gmail.com"><img src="https://img.shields.io/badge/Email-empty?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=2b2b2b" /></a>
-  <a href="https://www.behance.net/fahzzzstudio"><img src="https://img.shields.io/badge/Behance-empty?style=for-the-badge&logo=behance&logoColor=0057ff&labelColor=2b2b2b" /></a>
-  <a href="https://www.instagram.com/_fahzzz"><img src="https://img.shields.io/badge/Instagram-empty?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=2b2b2b" /></a>
-  <a href="https://www.linkedin.com/in/fahmi-dwi-santoso-540127321/"><img src="https://img.shields.io/badge/LinkedIn-empty?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=2b2b2b" /></a>
-  <a href="https://www.pinterest.com/FahzzzStudioo"><img src="https://img.shields.io/badge/Pinterest-empty?style=for-the-badge&logo=pinterest&logoColor=BD081C&labelColor=2b2b2b" /></a>
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:fahzzzstd04@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
+  </a>
+  <a href="https://www.behance.net/fahzzzstudio">
+    <img src="https://skillicons.dev/icons?i=behance&theme=dark" width="45" />
+  </a>
+  <a href="https://www.instagram.com/_fahzzz">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/fahmi-dwi-santoso-540127321/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
+  </a>
+  <a href="https://www.pinterest.com/FahzzzStudioo">
+    <img src="https://skillicons.dev/icons?i=pinterest&theme=dark" width="45" />
+  </a>
 </p>
 
----
-
-## 🧠 Tech Stack & Tools
-
-### 💻 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba9b4&height=60&section=footer" />
 </p>
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,python,java" />
+<h2 align="center">🧠 Tech Stack & Tools</h2>
+
+<h3 align="center">💻 Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark" />
 </p>
 
-### 🧩 AI & Data Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
+<h3 align="center">⚙️ Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,python,java&theme=dark" />
 </p>
 
-### 🎨 Design & Creative Suite
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender" />
+<h3 align="center">🧩 AI & Data Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn,matplot" />
+</p>
+
+<h3 align="center">🎨 Design & Creative Suite</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4&icon_color=0ba9b4" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FahzzzStudio&hide_border=true&background=0d1117&ring=0ba9b4&fire=0ba9b4&currStreakNum=c7d3d4&sideNums=c7d3d4&currStreakLabel=0ba9b4&sideLabels=c7d3d4&dates=6b8c8e" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
 </p>
 
 ---
