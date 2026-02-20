@@ -50,10 +50,6 @@ I love transforming ideas into creative visuals and interactive experiences.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba9b4&height=60&section=footer" />
-</p>
-
 <h2 align="center">🧠 Tech Stack & Tools</h2>
 
 <h3 align="center">💻 Frontend Development</h3>
@@ -76,17 +72,6 @@ I love transforming ideas into creative visuals and interactive experiences.
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" />
 </p>
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahzzzStudio&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4&icon_color=0ba9b4" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FahzzzStudio&hide_border=true&background=0d1117&ring=0ba9b4&fire=0ba9b4&currStreakNum=c7d3d4&sideNums=c7d3d4&currStreakLabel=0ba9b4&sideLabels=c7d3d4&dates=6b8c8e" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
-</p>
-
 ---
 
 ## ⚡ GitHub Stats
@@ -96,9 +81,9 @@ I love transforming ideas into creative visuals and interactive experiences.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FahzzzStudio&hide_border=true&background=0d1117&ring=0ba9b4&fire=0ba9b4&currStreakNum=c7d3d4&sideNums=c7d3d4&currStreakLabel=0ba9b4&sideLabels=c7d3d4&dates=6b8c8e" height="160px" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahzzzStudio&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4" height="160px"/>
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
@@ -126,5 +111,9 @@ I love transforming ideas into creative visuals and interactive experiences.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=FahzzzStudio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba9b4&height=60&section=footer" />
+</p>
 
 </div>
