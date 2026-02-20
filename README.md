@@ -16,8 +16,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=0BA9B4&center=true&vCenter=true&width=500&lines=Graphic+Designer+Enthusiast;Beginner+Developer;Social+Media+Designer;Open+for+Collaboration)](https://git.io/typing-svg)
 
----
-
 <table border="0" width="100%">
   <tr style="border: none;">
     <td width="50%" style="border: none; vertical-align: top;">
@@ -47,8 +45,6 @@
   <a href="https://www.pinterest.com/FahzzzStudioo"><img src="https://skillicons.dev/icons?i=pinterest&theme=dark" width="45" /></a>
 </p>
 
----
-
 <h2 align="center" style="border-bottom: none; color: #0ba9b4;">Tech Stack & Tools</h2>
 
 <table align="center" style="border: none;">
@@ -73,8 +69,6 @@
     </td>
   </tr>
 </table>
-
----
 
 <h2 align="center" style="border-bottom: none; color: #0ba9b4;">GitHub Stats</h2>
 
