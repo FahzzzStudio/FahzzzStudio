@@ -1,14 +1,13 @@
+<h1 align="center" style="border-bottom: none;">Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz)</h1>
 <div align="center">
-
 <p align="center">
   <img src="300+ Client.png" alt="Banner Fahzzz" width="100%" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/FahzzzStudio/FahzzzStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<h1 align="center" style="border-bottom: none;">Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz)</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FahzzzStudio&label=Profile%20Views&color=0ba9b4&style=flat" alt="visitor badge"/>
@@ -19,7 +18,7 @@
 <table border="0" width="100%">
   <tr style="border: none;">
     <td width="50%" style="border: none; vertical-align: top;">
-      <h2 style="border-bottom: none; color: #0ba9b4;">📖 About Me</h2>
+      <h2 style="border-bottom: none; color: #0ba9b4;">About Me</h2>
       Hi there! I'm <b>Fahmi</b>, a passionate <b>Graphic Designer</b> and <b>Social Media Specialist</b>. I love transforming ideas into creative visuals and interactive experiences.<br><br>
       <i>"Design is not just what it looks like — it's how it feels."</i>
     </td>
@@ -29,6 +28,7 @@
         I don’t just design — I <i>storytell visually</i>.<br><br>
         My favorite combo:<br> 
         <b>Coffee  + Creativity  + Calm Beats 🎧</b>
+        Fahzzz
       </blockquote>
     </td>
   </tr>
