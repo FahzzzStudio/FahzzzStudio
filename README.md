@@ -29,8 +29,6 @@ I love transforming ideas into creative visuals and interactive experiences.
 💡 *"Design is not just what it looks like — it's how it feels."*  
 🎯 Currently exploring: `Web Design`, `UI/UX`, `Python`, and `Machine Learning`.
 
----
-
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="mailto:fahzzzstd04@gmail.com">
@@ -72,8 +70,6 @@ I love transforming ideas into creative visuals and interactive experiences.
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" />
 </p>
 
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -89,26 +85,13 @@ I love transforming ideas into creative visuals and interactive experiences.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
 </p>
 
----
-
-## Achievements & Highlights
-🧠 Self-taught designer and developer since high school  
-🎨 Building strong design identity through **PRABHA** & **NOCE** brand  
-🚀 Working on **Minatz Store Landing Page**  
-🌱 Learning **Full-Stack Development & Machine Learning**  
-💬 Loves sharing design knowledge and creative workflow tips  
-
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FahzzzStudio&theme=onestar&no-bg=true&no-frame=true&title=Commits,Followers,Repositories,Stars" />
 </div> -->
 
----
-
 ### Fun Fact
 > I don’t just design — I *storytell visually*.  
 > My favorite combo: **Coffee ☕ + Creativity 💡 + Calm Beats 🎧**
-
----
 
 [![](https://visitcount.itsvg.in/api?id=FahzzzStudio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
