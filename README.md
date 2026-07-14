@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: none;">Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz)</h1>
 <div align="center">
 <p align="center">
-  <img src="300+ Client.png" alt="Banner Fahzzz" width="100%" />
+  <img src="Banner Fahzzz Studio (6).png" alt="Banner Fahzzz" width="100%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/FahzzzStudio/FahzzzStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
