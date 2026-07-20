@@ -51,11 +51,11 @@
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
       <h4 style="border-bottom: none;">Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark" height="40" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,tailwind,vite&theme=dark" height="40" />
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <h4 style="border-bottom: none;">Backend</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,python,java&theme=dark" height="40" />
+      <img src="https://skillicons.dev/icons?i=mysql,python,java,php&theme=dark" height="40" />
     </td>
   </tr>
   <tr style="border: none;">
@@ -66,6 +66,12 @@
     <td align="center" style="border: none; padding: 10px;">
       <h4 style="border-bottom: none;">Design Suite</h4>
       <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,canva,blender&theme=dark" height="40" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <h4 style="border-bottom: none;">Other Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,notion&theme=dark" height="40" />
     </td>
   </tr>
 </table>
