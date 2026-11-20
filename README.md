@@ -1,5 +1,9 @@
-<h1 align="center" style="border-bottom: none;">Hi, I'm Fahmi Dwi Santoso (a.k.a Fahzzz)</h1>
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ba9b4,100:0d1117&height=220&section=header&text=Fahmi%20Dwi%20Santoso&fontSize=46&fontColor=c7d3d4&animation=fadeIn&fontAlignY=35&desc=Graphic%20Designer%20%E2%80%A2%20Beginner%20Developer%20%E2%80%A2%20Social%20Media%20Specialist&descAlignY=55&descSize=16&descColor=c7d3d4" width="100%"/>
+
+<br/>
+
 <p align="center">
   <img src="Banner Fahzzz Studio (6).png" alt="Banner Fahzzz" width="100%" />
 </p>
