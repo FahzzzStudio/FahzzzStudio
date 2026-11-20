@@ -84,15 +84,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahzzzStudio&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahzzzStudio&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ba9b4&text_color=c7d3d4" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=FahzzzStudio&theme=react-dark&hide_border=true&bg_color=0d1117&color=0ba9b4&line=0ba9b4&point=c7d3d4&area=true" alt="FahzzzStudio Activity Graph"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba9b4&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <i>Private activity is shown only when the relevant service and token are configured to access it. The stats and top-languages cards use <code>count_private=true</code>; this does not grant access on its own. For private repository data, configure a token in a self-hosted service or GitHub Actions secret—never put a personal access token in this public README or in an image URL. The streak card uses GitHub contribution counts (enable “Private contributions” in your profile settings); the activity graph and snake image do not support a universal <code>count_private</code> URL parameter.</i>
 </p>
 
 </div>
